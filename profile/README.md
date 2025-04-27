@@ -8,7 +8,8 @@
 
 
 ### 📊 전체 구조도
-![image](https://github.com/user-attachments/assets/a3803eeb-e165-4751-b504-41fc6accaa14)
+![image](https://github.com/user-attachments/assets/09ca7d64-1ee2-4a46-872b-6d4df6c6db20)
+
 
 
 
