@@ -38,10 +38,11 @@
 
 ## 👥 팀원 및 역할
 
-|  | 홍세원(20203165) | 한여진(20233119) | 서다솜(20233053) |
-|:—|:—:|:—:|:—:|
+|   | 홍세원(20203165) | 한여진(20233119) | 서다솜(20233053) |
+|---|:---:|:---:|:---:|
 | 역할 | 팀장, AI | Front-end | Back-end |
 | 프로필 | <img src="https://github.com/hsw1805.png" width="80"/><br>[@hsw1805](https://github.com/hsw1805) | <img src="https://github.com/hanyj0317.png" width="80"/><br>[@hanyj0317](https://github.com/hanyj0317) | <img src="https://github.com/dasom040819.png" width="80"/><br>[@dasom040819](https://github.com/dasom040819) |
+
 
 
 
