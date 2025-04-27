@@ -8,7 +8,8 @@
 
 
 ### 📊 전체 구조도
-![image](https://github.com/user-attachments/assets/09ca7d64-1ee2-4a46-872b-6d4df6c6db20)
+![KakaoTalk_Photo_2025-04-27-23-59-08](https://github.com/user-attachments/assets/77933038-a4dd-430b-b3cb-e7c0d8aa3923)
+
 
 
 
